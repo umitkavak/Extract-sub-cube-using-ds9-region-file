@@ -144,7 +144,9 @@ python subcube_moment_calculation.py
 ```
 
 ## Results
-sub-cube
+
+Original and sub-cube FITS files. The green box shows the region to be kept. 
+
 <img width="921" alt="Screenshot 2024-06-12 at 22 55 00" src="https://github.com/umitkavak/Extract-sub-cube-using-ds9-region-file/assets/26542534/a49815a8-46be-4c7e-8373-c137f65c6878">
 
 Moment maps
