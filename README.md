@@ -24,7 +24,7 @@ pip install astropy numpy spectral-cube astroquery matplotlib regions
 The script `subcube_moment_calculation.py` performs the following steps:
 
 1. **Open the FITS File**: Reads the FITS file and extracts the data and header.
-2. **Read Regions and Create Sub-cube**: Reads regions from a DS9 region file, converts them to pixel coordinates, and creates a sub-cube.
+2. **Read Regions and Create Sub-cube**: Reads regions from a DS9 region file (in fk5 format), converts them to pixel coordinates, and creates a sub-cube.
 3. **Write the Sub-cube to a New FITS File**: Saves the created sub-cube to a new FITS file.
 4. **Define Spectral Slab Range**: Specifies the range of the spectral slab.
 5. **Calculate Moments**: Calculates the integrated intensity, velocity, and FWHM moments.
