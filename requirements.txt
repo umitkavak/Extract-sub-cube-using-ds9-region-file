@@ -1,0 +1,7 @@
+astropy==6.1.0
+astroquery==0.4.7
+matplotlib==3.9.0
+numpy==1.26.4
+regions==0.9
+reproject==0.13.1
+spectral_cube==0.6.5
